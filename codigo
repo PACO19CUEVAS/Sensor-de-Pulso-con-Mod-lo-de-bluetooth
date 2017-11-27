@@ -1,5 +1,7 @@
 # Sensor-de-Pulso-con-Mod-lo-de-bluetooth
 Este Código se utilizo para obtener la lectura de una señal biológica (el pulso cardíaco) y mediante el modúlo de bluetooth se mandaron los datos al celular por el MIT appinventor
+
+
 #include <LiquidCrystal.h>
 
 //  Variables
